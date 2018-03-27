@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522124914 source:/home/bill/Desktop/coding/dHashBreaker/main.cpp
+	<iostream>
+	<string>
+
